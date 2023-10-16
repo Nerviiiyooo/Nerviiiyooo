@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
+### - 🔭 I’m currently working on random stuff, probably a discord bot which i'm making for fun
+### - 💬 You can ask me about Discord Bots written in Python
+### - 📫 How you can reach me
+ - Discord: nxrvi
+ - :sad: No other way.
+### - ⚡ Fun fact
+ - Using discord4py (**mccoderpy/discord.py-message-components**) to write my bots
 <!--
 **Nerviiiyooo/Nerviiiyooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
